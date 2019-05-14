@@ -2,31 +2,32 @@ var presentations, timeout;
 
 var offset = 0;
 
+
 function showCurrent() {
 
     var timezone_intl = Intl.DateTimeFormat().resolvedOptions().timeZone;
     timezone_intl = timezone_intl ? timezone_intl : 'America/New_York';
 
-    var now = moment().tz(timezone_intl);
+     var now = moment().tz(timezone_intl);
 
     var now = moment().tz(timezone_intl);
 
-    var _presentations = presentations.map(function(p) {
+     var _presentations = presentations.map(function(p) {
         return {
             date: moment(p.date).add(offset, 'minutes'),
-            person: p.Person,
-            project: p.Project
+            person: p.person,
+            project: p.project
         };
     });
 
-    var current = _presentations.filter(function(p) {
-        var start = p.date;
-        var end = moment(start).add(12, 'minutes');
+     var current = _presentations.filter(function(p) {
+         var start = p.date;
+         var end = moment(start).add(12, 'minutes');
         return now.isBetween(start, end);
     })[0];
 
     if (current) {
-      
+
         $('#current-presenter').html(current.person);
         $('#current-project').html('"' + current.project + '"');
     } else {
@@ -34,7 +35,7 @@ function showCurrent() {
         $('#current-project').html('');
     }
 
-    var next = _presentations.filter(function(p) {
+     next = _presentations.filter(function(p) {
         return p.date.isAfter(now);
     })[0];
 
@@ -52,7 +53,7 @@ function showCurrent() {
 
 function getData() {
 
-    $.getJSON('2019presenters.json', function(data) {
+    $.getJSON('https://rushali.github.io/stream2019/2019presenters.json', function(data) { // 
         // $.getJSON('presenters.json', function(data) {
         data = data.map(function(d) {
             d.date = moment(d.date).tz('America/New_York');

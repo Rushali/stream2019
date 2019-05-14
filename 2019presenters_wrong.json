@@ -1,0 +1,638 @@
+[
+ {
+   "Date": "5/14/2019",
+   "Time": "09:00 AM",
+   "Person": "Amitabh Shrivastava",
+   "Project": "Programmable-Air"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "09:10 AM",
+   "Person": "Adekemi Sijuwade",
+   "Project": "Africa Maker"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "10:24 AM",
+   "Person": "Michael Blum",
+   "Project": "Paralang"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "10:36 AM",
+   "Person": "Krizia Fernando",
+   "Project": "Emojiujitsu, Accessibility and Emoji"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "10:48 AM",
+   "Person": "Yu-Hao Ko",
+   "Project": "LifeShare"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "11:00 AM",
+   "Person": "Anita Mbabazi",
+   "Project": "Rokas"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "11:12 AM",
+   "Person": "Assel Dmitriyeva",
+   "Project": "ML for Social Good: Pedestrian Movement"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "11:24 AM",
+   "Person": "Amena Hayat",
+   "Project": "The Language of Silence VR"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "11:36 AM",
+   "Person": "Meicheng Jia",
+   "Project": "Wu Wei"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "11:48 AM",
+   "Person": "Erin Cooney",
+   "Project": "Podscape"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "1:00 PM",
+   "Person": "Isabella Vento",
+   "Project": "Unearthing Thread"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "1:12 PM",
+   "Person": "Nicolas Sanin",
+   "Project": "Slow numbers"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "1:24 PM",
+   "Person": "Lauren Race",
+   "Project": "Designing Tactile Schematics"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "1:36 PM",
+   "Person": "Nathier Fernandez",
+   "Project": "Genetically Generated Texts [5â€™ GGT 3â€™]"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "2:00 PM",
+   "Person": "Fanni Fazakas",
+   "Project": "Jamie & Jamie"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "2:12 PM",
+   "Person": "Sandy Hsieh",
+   "Project": "Modular Patternmaking"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "2:24 PM",
+   "Person": "William F. Hallett",
+   "Project": "Axolotl: Designing Social Blur"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "2:36 PM",
+   "Person": "Mengzhen Xiao",
+   "Project": "IntoAR: Intuitive AR Notifications Design System"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "2:48 PM",
+   "Person": "Mai Arakida Izsak",
+   "Project": "Salon109"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "3:00 PM",
+   "Person": "Zahra Khosravi",
+   "Project": "Neural Painting"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "3:12 PM",
+   "Person": "Xiao (Shawn) Ma",
+   "Project": "Hyper-Device"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "3:24 PM",
+   "Person": "Terrick Gutierrez",
+   "Project": "Ride Home"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "3:48 PM",
+   "Person": "Jillian Zhong",
+   "Project": "Person Thing #1-3"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "4:00 PM",
+   "Person": "Haiyi Huang",
+   "Project": "The Drawing Booth"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "4:12 PM",
+   "Person": "Namsoo Kim",
+   "Project": "GALLARY"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "4:24 PM",
+   "Person": "Chian Huang",
+   "Project": "Memory Playback, “Grandma, do you remember?”"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "4:36 PM",
+   "Person": "Ridwan Madon",
+   "Project": "Rakan"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "4:48 PM",
+   "Person": "Jenna Xu",
+   "Project": "Self-Portrait as Allegory of"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "5:00 PM",
+   "Person": "Yipeng (Eva) Chen",
+   "Project": "The Code of the Cloisters"
+ },
+ {
+   "Date": "5/14/2019",
+   "Time": "5:12 PM",
+   "Person": "Gabriel Goncalves",
+   "Project": "Hiper Carnaval"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "10:12 AM",
+   "Person": "Kimberly Lin",
+   "Project": "Super Frustrated NYC Modern Love Stories"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "10:24 AM",
+   "Person": "Roland Arnoldt",
+   "Project": "Eden"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "10:36 AM",
+   "Person": "Nicolas Peña-Escarpentier",
+   "Project": "Inner Cadence"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "10:48 AM",
+   "Person": "Daniel Castano",
+   "Project": "Oscar: Create beautiful and responsive graphical user interfaces"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "11:00 AM",
+   "Person": "Azalea FaghiVaseghi",
+   "Project": "Digital embrace"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "11:12 AM",
+   "Person": "Dominick Chang",
+   "Project": "Linear Harmony"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "11:24 AM",
+   "Person": "Zohreh Zadbood",
+   "Project": "Who is RIGHT"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "11:36 AM",
+   "Person": "M.H. Rahmani",
+   "Project": "reFrame"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "11:48 AM",
+   "Person": "Roxanne Kim",
+   "Project": "Future IVX (In-Vehicle Experience)"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "1:00 PM",
+   "Person": "Vidia Anindhita",
+   "Project": "Solus"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "1:12 PM",
+   "Person": "James Huang",
+   "Project": "Lost in Translation"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "1:24 PM",
+   "Person": "Jim Schmitz",
+   "Project": "The modern world, painted"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "1:36 PM",
+   "Person": "Yue (Effy) Fan",
+   "Project": "Forcetopia"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "1:48 PM",
+   "Person": "Nick Threadgill Wallace",
+   "Project": "Climb.It Weather System"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "2:00 PM",
+   "Person": "Hau Yuan",
+   "Project": "Ultimate \"Mobile-First\" Design"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "2:12 PM",
+   "Person": "Huiyi Chen",
+   "Project": "Today I will be a better human"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "2:36 PM",
+   "Person": "Ayal Rosenberg",
+   "Project": "ElectroEd"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "2:48 PM",
+   "Person": "Camille Weins",
+   "Project": "The Comorbiditree"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "3:00 PM",
+   "Person": "Lu Wang",
+   "Project": "The Invader, an immersive opera with multi-channel speaker system"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "3:12 PM",
+   "Person": "Heng Tang",
+   "Project": "A Farewell to Trolls"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "3:24 PM",
+   "Person": "Camilla Padgitt-Coles",
+   "Project": "The Tuning House"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "3:36 PM",
+   "Person": "Joohyun Park",
+   "Project": "Unknown Universe"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "3:48 PM",
+   "Person": "Aidan Nelson",
+   "Project": "Refracting Rays"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "4:00 PM",
+   "Person": "Chengtao Yi",
+   "Project": "Chengtao designed by Chengtao"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "4:24 PM",
+   "Person": "Max Horwich",
+   "Project": "Audance"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "4:36 PM",
+   "Person": "Katya Rozanova",
+   "Project": "Sound Playground"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "4:48 PM",
+   "Person": "You Jin Chung",
+   "Project": "The Tree of Babel"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "5:00 PM",
+   "Person": "Caleb Ferguson",
+   "Project": "North Central Postronics"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "5:12 PM",
+   "Person": "Luna Olavarria Gallegos",
+   "Project": "House Party Federation"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "5:24 PM",
+   "Person": "April Liu",
+   "Project": "Ghost"
+ },
+ {
+   "Date": "5/15/2019",
+   "Time": "5:36 PM",
+   "Person": "Jesse Simpson",
+   "Project": "LIME: Light Interface for Musical Expression"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "10:00 AM",
+   "Person": "Lucas Chung",
+   "Project": "Shush?"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "10:12 AM",
+   "Person": "Hadar Ben-Tzur",
+   "Project": "1968 WSQP: an augmented reality app"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "10:24 AM",
+   "Person": "Beverly Chou",
+   "Project": "Slow Net"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "10:36 AM",
+   "Person": "Arnav Wagh",
+   "Project": "FLXO"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "10:48 AM",
+   "Person": "Michael Fuller",
+   "Project": "Touch-An Interactive Art Installation"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "11:00 AM",
+   "Person": "Kaiche Hung",
+   "Project": "World Loader"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "11:12 AM",
+   "Person": "Lin Zhang",
+   "Project": "Unwind: Conflict Resolution for Daily Practice"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "11:24 AM",
+   "Person": "Dong (Phil) Yoo",
+   "Project": "Redrum: Collaborative Human-AI Toy Design"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "11:36 AM",
+   "Person": "Yeonhee Lee",
+   "Project": "Design System Starter Tool with AI"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "11:48 AM",
+   "Person": "Elizabeth Ferguson",
+   "Project": "SpeakOut"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "1:00 PM",
+   "Person": "Jarone Wright",
+   "Project": "In Panes"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "1:12 PM",
+   "Person": "Alice Sun",
+   "Project": "Consistent Doodles"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "1:24 PM",
+   "Person": "Sam Chasan",
+   "Project": "Chaff Map"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "1:36 PM",
+   "Person": "Ivy (Danxiaomeng) Huang",
+   "Project": "Fisherman’s Song"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "1:48 PM",
+   "Person": "Shreiya Chowdhary",
+   "Project": "Itivrit: Travel through time"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "2:12 PM",
+   "Person": "Ilana Pecis Bonder",
+   "Project": "Stories Through Space"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "2:24 PM",
+   "Person": "Sam Hains",
+   "Project": "Jack and Sam’s eDream Portal"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "2:36 PM",
+   "Person": "Sofia Suazo",
+   "Project": "Post-photographic Topographies"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "2:48 PM",
+   "Person": "Alden Jones",
+   "Project": "Future’s Market"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "3:00 PM",
+   "Person": "Barak Hemou",
+   "Project": "Procession"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "3:12 PM",
+   "Person": "Ella Chung",
+   "Project": "Breathe We Live"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "3:24 PM",
+   "Person": "Ellen Nickles",
+   "Project": "Gotcha! Sincere Competitive Chitchat"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "3:36 PM",
+   "Person": "Brandon Newberg",
+   "Project": "Let’s Dance: Movement Technologies"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "4:00 PM",
+   "Person": "Chengchao Zhu",
+   "Project": "Winding Time"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "4:12 PM",
+   "Person": "Chelsea Chen",
+   "Project": "Now You Are In the Conversation"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "4:24 PM",
+   "Person": "Asha Veeraswamy",
+   "Project": "Kineme"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "4:36 PM",
+   "Person": "Oren Shoham",
+   "Project": "Viral Media"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "4:48 PM",
+   "Person": "Rebecca Skurnik",
+   "Project": "Absurd Algorithms"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "5:00 PM",
+   "Person": "Yan Yang",
+   "Project": "Magical Pencil"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "5:12 PM",
+   "Person": "Dan Oved",
+   "Project": "The Self-Driving Human"
+ },
+ {
+   "Date": "5/16/2019",
+   "Time": "5:24 PM",
+   "Person": "Carrie Wang",
+   "Project": "ALEX, Your Best Friend At Work"
+ },
+ {
+   "Date": "5/17/2019",
+   "Time": "10:12 AM",
+   "Person": "Jiyao Zhang",
+   "Project": "A Vociferous Silence"
+ },
+ {
+   "Date": "5/17/2019",
+   "Time": "10:24 AM",
+   "Person": "Xiran Yang",
+   "Project": "Blind Date"
+ },
+ {
+   "Date": "5/17/2019",
+   "Time": "10:36 AM",
+   "Person": "Marco Matteo Wylie",
+   "Project": "Undercover"
+ },
+ {
+   "Date": "5/17/2019",
+   "Time": "10:48 AM",
+   "Person": "Kellee Massey",
+   "Project": "The Field Guide to the Black Experience"
+ },
+ {
+   "Date": "5/17/2019",
+   "Time": "11:00 AM",
+   "Person": "Keerthana Pareddy",
+   "Project": "Ensemble"
+ },
+ {
+   "Date": "5/17/2019",
+   "Time": "11:12 AM",
+   "Person": "Jason Yung",
+   "Project": "[Light] Art as Experience"
+ },
+ {
+   "Date": "5/17/2019",
+   "Time": "11:24 AM",
+   "Person": "Alexandra Lopez-Duarte",
+   "Project": "“Widow”"
+ },
+ {
+   "Date": "5/17/2019",
+   "Time": "11:48 AM",
+   "Person": "Stephanie Paige Chambers",
+   "Project": "The HOTSpot"
+ },
+ {
+   "Date": "5/17/2019",
+   "Time": "12:00 PM",
+   "Person": "Alan Peng",
+   "Project": "Tangram Blanket"
+ },
+ {
+   "Date": "5/17/2019",
+   "Time": "12:12 PM",
+   "Person": "Itay Niv",
+   "Project": "Let’s Read A Story"
+ },
+ {
+   "Date": "5/17/2019",
+   "Time": "12:24 PM",
+   "Person": "Tong Wu",
+   "Project": "Daily Dividuals"
+ },
+ {
+   "Date": "5/17/2019",
+   "Time": "12:36 PM",
+   "Person": "Simon Jensen",
+   "Project": "Safety Last"
+ },
+ {
+   "Date": "5/17/2019",
+   "Time": "12:48 PM",
+   "Person": "Yiyao Nie",
+   "Project": "Life in the Nutshell"
+ },
+ {
+   "Date": "5/17/2019",
+   "Time": "1:00 PM",
+   "Person": "Anthony Bui",
+   "Project": "Because We’re Bored"
+ }
+]
