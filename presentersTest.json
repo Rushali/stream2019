@@ -1,0 +1,527 @@
+[
+	{
+		"date": "5/8/2017 13:00:00",
+		"person": "Eve Weinberg",
+		"project": "UXMovesMe.com"
+	},
+	{
+		"date": "5/8/2017 13:12:00",
+		"person": "Dhruv Damle",
+		"project": "Seedling"
+	},
+	{
+		"date": "5/8/2017 13:24:00",
+		"person": "Paula Ceballos Delgado",
+		"project": "[divine_pixels]"
+	},
+	{
+		"date": "5/8/2017 13:36:00",
+		"person": "Isabel Donlon",
+		"project": "Screen Leaks: Experiments in Personal Data Sharing"
+	},
+	{
+		"date": "5/8/2017 13:48:00",
+		"person": "Xiqiao Zhou",
+		"project": "Color Your World"
+	},
+	{
+		"date": "5/8/2017 14:00:00",
+		"person": "Christina Choi",
+		"project": "Plastic Islands: an interactive archipelago"
+	},
+	{
+		"date": "5/8/2017 14:24:00",
+		"person": "Xingjian An",
+		"project": "The Great Liar"
+	},
+	{
+		"date": "5/8/2017 14:36:00",
+		"person": "Zhuoxi Song",
+		"project": "Redesign of ITP website for students"
+	},
+	{
+		"date": "5/8/2017 14:48:00",
+		"person": "Anne Goodfriend",
+		"project": "A Place to Remember"
+	},
+	{
+		"date": "5/8/2017 15:12:00",
+		"person": "Doo Yon Kim",
+		"project": "LETS: Efficient Platform to Make People Social in Real World"
+	},
+	{
+		"date": "5/8/2017 15:24:00",
+		"person": "Eunjee Kim",
+		"project": "Raincoat"
+	},
+	{
+		"date": "5/8/2017 15:36:00",
+		"person": "Soyeon Chung",
+		"project": "One less hamburger"
+	},
+	{
+		"date": "5/8/2017 15:48:00",
+		"person": "Cristina Cannella",
+		"project": "Navigating with Mynd Map"
+	},
+	{
+		"date": "5/8/2017 16:12:00",
+		"person": "Fan Hao Tseng",
+		"project": "Let Go Machine"
+	},
+	{
+		"date": "5/8/2017 16:24:00",
+		"person": "Skylar Jessen",
+		"project": "Humans Being Human Beings: An Exploration in Decompressed Design"
+	},
+	{
+		"date": "5/9/2017 10:00:00",
+		"person": "Mathura Govindarajan",
+		"project": "Cat In A Box"
+	},
+	{
+		"date": "5/9/2017 10:12:00",
+		"person": "Dana Abrassart",
+		"project": "emBody"
+	},
+	{
+		"date": "5/9/2017 10:24:00",
+		"person": "Nai-Chen Yang",
+		"project": "The Undelivered Letters"
+	},
+	{
+		"date": "5/9/2017 10:36:00",
+		"person": "Aaron Montoya-Moraga",
+		"project": "it's ok"
+	},
+	{
+		"date": "5/9/2017 10:48:00",
+		"person": "Xinyao Wang",
+		"project": "Gravity"
+	},
+	{
+		"date": "5/9/2017 11:12:00",
+		"person": "Angela Perrone",
+		"project": "Museum of Funny Ladies - A Museumette"
+	},
+	{
+		"date": "5/9/2017 11:24:00",
+		"person": "Adi Wiedersheim Sendagorta",
+		"project": "Here and There"
+	},
+	{
+		"date": "5/9/2017 11:36:00",
+		"person": "Shangbo Chen",
+		"project": "How to Do Things with Gestures"
+	},
+	{
+		"date": "5/9/2017 11:48:00",
+		"person": "Xiwei Huang",
+		"project": "The CompBack, a video compositing tool for video with complex backgrounds"
+	},
+	{
+		"date": "5/9/2017 13:00:00",
+		"person": "Jesse Donaldson",
+		"project": "Breadcrumbs: Postcards from the present"
+	},
+	{
+		"date": "5/9/2017 13:12:00",
+		"person": "Ishaan Chaudhary",
+		"project": "EKTA: A multi-sensory experience"
+	},
+	{
+		"date": "5/9/2017 13:24:00",
+		"person": "Nicola Carpeggiani",
+		"project": "Sampledelia - an audiovisual \"non-time\" experience"
+	},
+	{
+		"date": "5/9/2017 13:36:00",
+		"person": "Viniyata Pany",
+		"project": "Unheard"
+	},
+	{
+		"date": "5/9/2017 13:48:00",
+		"person": "Jared Friedman",
+		"project": "Geocode #1 (Fun House)"
+	},
+	{
+		"date": "5/9/2017 14:00:00",
+		"person": "Shir David",
+		"project": "Light Scapes"
+	},
+	{
+		"date": "5/9/2017 14:24:00",
+		"person": "Jamie Ruddy",
+		"project": "Maddy's Secret History"
+	},
+	{
+		"date": "5/9/2017 14:36:00",
+		"person": "Joakim Quach",
+		"project": "Physical Objects in Augmented Reality"
+	},
+	{
+		"date": "5/9/2017 14:48:00",
+		"person": "Kritchaya Twitchsri",
+		"project": "WAVE: Mind tuning before bed"
+	},
+	{
+		"date": "5/9/2017 15:12:00",
+		"person": "Sunnie We",
+		"project": "Artificial Intelligence & the Future of Photojournalism"
+	},
+	{
+		"date": "5/9/2017 15:24:00",
+		"person": "Sisa Bueno",
+		"project": "CLOSED CELLS, OPEN WOUNDS: The Collective Damage of Mass Incarceration"
+	},
+	{
+		"date": "5/9/2017 15:36:00",
+		"person": "Corbin Ordel",
+		"project": "A Cloud in Blue Sky"
+	},
+	{
+		"date": "5/9/2017 15:48:00",
+		"person": "Yun Li",
+		"project": "Temporal Paradox"
+	},
+	{
+		"date": "5/9/2017 16:12:00",
+		"person": "Naoki Ishizuka",
+		"project": "@veatrapper"
+	},
+	{
+		"date": "5/9/2017 16:24:00",
+		"person": "Chelsea Pfohl",
+		"project": "The Nutshell Experience"
+	},
+	{
+		"date": "5/9/2017 16:36:00",
+		"person": "Rebecca Leopold",
+		"project": "the Emoji Palette"
+	},
+	{
+		"date": "5/9/2017 16:48:00",
+		"person": "Jonathan Gallagher",
+		"project": "Yn Erre Auro"
+	},
+	{
+		"date": "5/9/2017 17:12:00",
+		"person": "Gal Nissim",
+		"project": "Rat Tale"
+	},
+	{
+		"date": "5/9/2017 17:24:00",
+		"person": "Michelle Hessel",
+		"project": "Hidden in Plain Sight"
+	},
+	{
+		"date": "5/9/2017 17:36:00",
+		"person": "Chino Kim",
+		"project": "Mouth to Mouth Dating"
+	},
+	{
+		"date": "5/10/2017 10:00:00",
+		"person": "Yuchi Ma",
+		"project": "Mobile Avatar"
+	},
+	{
+		"date": "5/10/2017 10:12:00",
+		"person": "Satbir Multani",
+		"project": "Interstitial Exhibits In Design Lab"
+	},
+	{
+		"date": "5/10/2017 10:24:00",
+		"person": "Muqing Niu",
+		"project": "Minsta"
+	},
+	{
+		"date": "5/10/2017 10:36:00",
+		"person": "Lindsey Johnson",
+		"project": "The Museum of Mistrust"
+	},
+	{
+		"date": "5/10/2017 10:48:00",
+		"person": "Jiaqi Guo",
+		"project": "From Photorealistic to Artistic Rendering"
+	},
+	{
+		"date": "5/10/2017 11:12:00",
+		"person": "Marcela Nowak",
+		"project": "The Dream Catcher"
+	},
+	{
+		"date": "5/10/2017 11:24:00",
+		"person": "Jamal Combs",
+		"project": "Jamal Combs Action Points (JCAP): Critiquing Role-Playing Game Interfaces"
+	},
+	{
+		"date": "5/10/2017 11:36:00",
+		"person": "Yan Zhao",
+		"project": "Decluttering Bot"
+	},
+	{
+		"date": "5/10/2017 11:48:00",
+		"person": "Yue Hu",
+		"project": "Once Go Back"
+	},
+	{
+		"date": "5/10/2017 13:00:00",
+		"person": "Ondina Frate",
+		"project": "Drawing Feelings"
+	},
+	{
+		"date": "5/10/2017 13:12:00",
+		"person": "Yuan Gao",
+		"project": "NovaAlto: Towards Neural Music Style Transfer"
+	},
+	{
+		"date": "5/10/2017 13:24:00",
+		"person": "Juan Jose Egusquiza",
+		"project": "re·al·i·ty"
+	},
+	{
+		"date": "5/10/2017 13:36:00",
+		"person": "Renata Gaui",
+		"project": "The hysterical wearable"
+	},
+	{
+		"date": "5/10/2017 13:48:00",
+		"person": "Wangshu Sun",
+		"project": "Dream of Wings"
+	},
+	{
+		"date": "5/10/2017 14:00:00",
+		"person": "Danielle Butler",
+		"project": "Safe House, A Complex Story Told Small"
+	},
+	{
+		"date": "5/10/2017 14:24:00",
+		"person": "KC Lathrop",
+		"project": "KNOCKED down!"
+	},
+	{
+		"date": "5/10/2017 14:36:00",
+		"person": "Leslie Ruckman",
+		"project": "Well Rounded: collecting change for collective change"
+	},
+	{
+		"date": "5/10/2017 14:48:00",
+		"person": "Jamie Charry",
+		"project": "SETA Maker"
+	},
+	{
+		"date": "5/10/2017 15:12:00",
+		"person": "Yue Zhang",
+		"project": "Missing Era VR"
+	},
+	{
+		"date": "5/10/2017 15:24:00",
+		"person": "Esther Hersh",
+		"project": "Lattice"
+	},
+	{
+		"date": "5/10/2017 15:36:00",
+		"person": "Xuhui Xu",
+		"project": "Mistory"
+	},
+	{
+		"date": "5/10/2017 15:48:00",
+		"person": "Nilomee Jesrani",
+		"project": "Exploring the Heart - A VR Experience for Medical Education"
+	},
+	{
+		"date": "5/10/2017 16:12:00",
+		"person": "FY Fengyuan Zhu",
+		"project": "Magic Window Mixed Reality System"
+	},
+	{
+		"date": "5/10/2017 16:24:00",
+		"person": "Jessica Scott-Dutcher",
+		"project": "Greenly"
+	},
+	{
+		"date": "5/10/2017 16:36:00",
+		"person": "Quest Kennelly",
+		"project": "Orbital Sustainability"
+	},
+	{
+		"date": "5/10/2017 16:48:00",
+		"person": "Leon Eckert",
+		"project": "Biometric Intimacy"
+	},
+	{
+		"date": "5/10/2017 17:12:00",
+		"person": "Yiting Liu",
+		"project": "Catching Santa: A Virtual Reality Fairy Tale"
+	},
+	{
+		"date": "5/10/2017 17:24:00",
+		"person": "Jen Kagan",
+		"project": "whatisit.tech"
+	},
+	{
+		"date": "5/10/2017 17:36:00",
+		"person": "Franklin Fengyi Zhu",
+		"project": "A Ritual that Lasts Forever"
+	},
+	{
+		"date": "5/10/2017 17:48:00",
+		"person": "Kevin Stirnweis",
+		"project": "Filet"
+	},
+	{
+		"date": "5/11/2017 10:00:00",
+		"person": "Aaron Parsekian",
+		"project": "thank you lights"
+	},
+	{
+		"date": "5/11/2017 10:12:00",
+		"person": "Dhruv Mehrota",
+		"project": "Othernet"
+	},
+	{
+		"date": "5/11/2017 10:24:00",
+		"person": "Ian Gibson",
+		"project": "Vets Ready-to-Create: an MRE to empower veteran makers"
+	},
+	{
+		"date": "5/11/2017 10:36:00",
+		"person": "Katie Temrowski",
+		"project": "Townsquare"
+	},
+	{
+		"date": "5/11/2017 10:48:00",
+		"person": "Jason Beck",
+		"project": "Play:Connected"
+	},
+	{
+		"date": "5/11/2017 11:22:00",
+		"person": "Peiyu Luo",
+		"project": "Chakr Glove"
+	},
+	{
+		"date": "5/11/2017 11:34:00",
+		"person": "Serena Parr",
+		"project": "Record in Flow"
+	},
+	{
+		"date": "5/11/2017 11:46:00",
+		"person": "Ella Dagan",
+		"project": "The Cloakroom"
+	},
+	{
+		"date": "5/11/2017 11:58:00",
+		"person": "Francesca Rodriguez Sawaya",
+		"project": "texere"
+	},
+	{
+		"date": "5/11/2017 13:00:00",
+		"person": "Daniel Silber-Baker",
+		"project": "Words Birth Worlds"
+	},
+	{
+		"date": "5/11/2017 13:12:00",
+		"person": "Ravyn Whitley",
+		"project": "TALK B[L]ACK"
+	},
+	{
+		"date": "5/11/2017 13:24:00",
+		"person": "Osama Sehgol",
+		"project": "TimeSvr.com - Connecting digitally fatigued users to a distributed network of taskers"
+	},
+	{
+		"date": "5/11/2017 13:36:00",
+		"person": "Olivia Cueva",
+		"project": "The Periodical"
+	},
+	{
+		"date": "5/11/2017 13:48:00",
+		"person": "Zoe Bachman",
+		"project": "diy/gyn: speculative experiments to deal with an absurdist reality"
+	},
+	{
+		"date": "5/11/2017 14:00:00",
+		"person": "Lisa Jamhoury",
+		"project": "Facing You: An Interactive Installation Exploring Life Inside the Internet of Experiences"
+	},
+	{
+		"date": "5/11/2017 14:24:00",
+		"person": "David Lockard",
+		"project": "Encountering: Arabic"
+	},
+	{
+		"date": "5/11/2017 14:36:00",
+		"person": "Nikita Huggins",
+		"project": "Trini Talk"
+	},
+	{
+		"date": "5/11/2017 14:48:00",
+		"person": "Melanie Hoff",
+		"project": "The Trust Game"
+	},
+	{
+		"date": "5/11/2017 15:12:00",
+		"person": "Jesse Horwitz",
+		"project": "The Radius Project"
+	},
+	{
+		"date": "5/11/2017 15:24:00",
+		"person": "Gustavo Abbott",
+		"project": "How To Draw A Cube"
+	},
+	{
+		"date": "5/11/2017 15:36:00",
+		"person": "Jamal Combs",
+		"project": "Jamal Combs Action Points (JCAP): Critiquing Role-Playing Game Interfaces"
+	},
+	{
+		"date": "5/11/2017 15:48:00",
+		"person": "Ruta Kruliauskaite",
+		"project": "Wonder Corner"
+	},
+	{
+		"date": "5/11/2017 16:12:00",
+		"person": "Regina Vetka",
+		"project": "Learn Your Way"
+	},
+	{
+		"date": "5/11/2017 16:24:00",
+		"person": "Emmanuel Klein",
+		"project": "Willo"
+	},
+	{
+		"date": "5/11/2017 16:36:00",
+		"person": "Ying He",
+		"project": "UpDate"
+	},
+	{
+		"date": "5/07/2018 16:48:00",
+		"person": "Jed Watson",
+		"project": "Deployed: A dependent's journey through a military deployment experience"
+	},
+	{
+		"date": "5/07/2018 17:12:00",
+		"person": "Rebecca Ricks",
+		"project": "Social Assemblages"
+	},
+	{
+		"date": "5/07/2018 17:24:00",
+		"person": "Wipawe Sirikolkarn",
+		"project": "Me, Myself, and .io"
+	},
+	{
+		"date": "5/07/2018 17:36:00",
+		"person": "Yuli Cai",
+		"project": "Wave-washed Sands: an experience with an ancient Chinese poem"
+	},
+	{
+		"date": "5/07/2018 17:48:00",
+		"person": "Jordan Frand-Nevler",
+		"project": "K.W.E.E.N"
+	},
+	{
+		"date": "5/07/2018 18:00:00",
+		"person": "Nicole He",
+		"project": "The Best Art"
+	}
+]

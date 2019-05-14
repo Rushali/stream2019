@@ -1,0 +1,99 @@
+<html>
+
+<head>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://cdn.jwplayer.com/libraries/TVRdx7Eu.js"></script>
+  <!-- <script src="https://content.jwplatform.com/libraries/rzUNHyv0.js"></script> -->
+
+  <script type="text/javascript">
+    // jwplayer.key = "ABCDEFGHIJKLMOPQ";
+  </script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+
+  <script src="moment.min.js"></script>
+  <script src="moment-timezone-with-data-2010-2020.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenLite.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/CSSPlugin.min.js"></script>
+
+  <link href="styles.css" rel="stylesheet" />
+
+</head>
+
+<body>
+  <div id="wrapper">
+    <div class="innerWrapper" id="wrapperLeft">
+      <div class="flex-one" id="headline">
+        <h1>ITP Thesis 2019 Livestream (<a href="https://itp.nyu.edu/thesis/" target="_blank">Schedule</a>)</h1>
+      </div>
+
+      <div class="flex-four" id="stream">
+        <div id="player"></div>
+      </div>
+
+
+      <div class="flex-one" id="upnext">
+        <div id="info">
+          <div id="current">
+            <p>
+              <b>On now:</b> <br>
+              <span id="current-presenter"></span><br>
+              <span id="current-project"></span>
+            </p>
+          </div>
+          <div id="next">
+            <p>
+              <b>Up next:</b> <br>
+              <span id="next-presenter"></span><br>
+              <span id="next-project"></span>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="flex-one" id="joinChat">
+        <p>join the chat!</p>
+      </div>
+    </div>
+    <div class="innerWrapper" id="wrapperRight">
+      <div class="chatContainer">
+      </div>
+    </div>
+  </div>
+  <!-- <div id="help">
+    <a href="help.html" target="_blank"><b>Can't see the video?</b></a>
+  </div> -->
+
+
+  </div>
+
+  <script src="upnext.js"></script>
+  <script src="player.js"></script>
+  <script src="chat.js"></script>
+  <script src="gitter.js" async defer></script>
+  <script>
+    window.addEventListener("resize", function() {
+      adjustChatSize();
+      resizePlayer();
+    });
+  </script>
+  <script>
+    (function(i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-85790016-2', 'auto');
+    ga('send', 'pageview');
+  </script>
+</body>
+
+</html>
